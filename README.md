@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dungnguyen312
 - 👀 I’m interested in Javascript & all about Functional Programming
-- 🌱 I’m currently learning Python & dive into Computer Science
+- 🌱 I’m currently deep dive into React & its ecosystems
 - 💞️ I’m looking to collaborate on Web Development industry
 - 📫 Get in touch via dungnguyentt312@gmail.com 
 
